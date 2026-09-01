@@ -41,10 +41,11 @@
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
-</addon><addon id="service.subtitles.a4ksubtitles" name="a4kSubtitles" version="3.24.2" provider-name="Unknown">
+</addon><addon id="service.subtitles.a4ksubtitles" name="a4kSubtitles" version="3.24.2.2" provider-name="Unknown">
     <requires>
       <import addon="script.module.requests" />
       <import addon="vfs.libarchive" optional="true" />
+      <import addon="vfs.rar" optional="true" />
     </requires>
     <extension point="xbmc.subtitle.module" library="main.py" />
     <extension point="xbmc.service" library="main_service.py" />
