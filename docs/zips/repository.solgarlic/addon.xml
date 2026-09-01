@@ -5,9 +5,9 @@
        provider-name="solgarlic">
     <extension point="xbmc.addon.repository" name="SolGarlic Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/solgarlic/repository.solgarlic/main/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/solgarlic/repository.solgarlic/main/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/solgarlic/repository.solgarlic/main/repo/zips/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/solgarlic/repository.solgarlic/main/docs/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/solgarlic/repository.solgarlic/main/docs/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/solgarlic/repository.solgarlic/main/docs/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">

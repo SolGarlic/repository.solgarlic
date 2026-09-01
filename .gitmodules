@@ -1,8 +1,8 @@
 [submodule "service.subtitles.a4ksubtitles"]
-	path = repo/service.subtitles.a4ksubtitles
+	path = docs/service.subtitles.a4ksubtitles
 	url = https://github.com/SolGarlic/a4kSubtitles.git
 	branch = all-fixes
 [submodule "plugin.video.jacktook"]
-	path = repo/plugin.video.jacktook
+	path = docs/plugin.video.jacktook
 	url = https://github.com/SolGarlic/plugin.video.jacktook.git
 	branch = all-fixes
